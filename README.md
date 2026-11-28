@@ -34,7 +34,7 @@
 
 ### 기술 스택
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,c,cpp,kotlin,flutter,dart&perline=9" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,c,cpp,flutter,dart&perline=9" alt="Languages">
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=cloudflare,vercel,docker,linux,ubuntu,git,github&perline=9" alt="Tools">
@@ -47,4 +47,4 @@
   <img alt="contribution snake" src="https://raw.githubusercontent.com/minchan-dev/minchan-dev/output/snake.svg">
 </picture>
 
-> ## 마지막 업데이트: 2026.11.24.(화) 23:42
+> ## 마지막 업데이트: 2026.11.28.(토) 17:33
