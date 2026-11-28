@@ -1,6 +1,17 @@
-## 반가워요 👋
+<p align="center">
+  <img src="https://github.minchan-app.workers.dev/" alt="minchan-dev banner" width="100%">
+</p>
 
+
+## 반가워요 👋
 > **풀스택과 AI에 관심이 많은 학생 개발자 '민찬'이에요!**
+<p align="center">
+  <a href="https://minchan.app"><img src="https://img.shields.io/badge/Website-minchan.app-1f6feb?style=flat-square" alt="Website"></a>
+  <a href="https://www.instagram.com/dev.kmc_710/"><img src="https://img.shields.io/badge/Instagram-dev.kmc__710-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:business@minchan.app"><img src="https://img.shields.io/badge/Email-business@minchan.app-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<br><br>
 
 ### 관심 분야
 - 웹 풀스택 개발을 가장 잘하고, 앱 개발은 공부하고 있어요.
@@ -19,22 +30,21 @@
 | [나만의 폰트 만들기](https://fontmaker.minchan.app/) | 한글 298자를 그리면 11172자를 조합해서 폰트 파일로 생성해주는 서비스예요. 내 손글씨를 화면 속에서도 만나고 싶을 때 쓰면 좋아요. |
 | [QR Code 생성기](https://qr.minchan.app) | QR Code 생성 사이트예요. 광고 없이 개성적인 QR Code를 디자인/다운로드 할 수 있어요. |
 | [IDea](https://idea.minchan.app/) | 인스타그램 아이디 추천 사이트예요. 이름과 생일만 넣으면 멋있는 아이디를 추천해줘요. |
-| [온라인 선풍기](https://fan.minchan.app/) | 온라인 선풍기예요. 바람이 나온다고 생각하면 진짜로 나올 수도 있어요. |
-| 표정연기 도우미 | 표정연기을 도와주는 AI 어시스턴트예요. 서비스 중이진 않지만 [여기](https://github.com/minchan-dev/expression-acting-coach)에서 소스코드를 볼 수 있어요. 이 프로젝트는 LG AI 청소년캠프 3기 23팀 팀원들과 함께했어.요 |
+| [아스키 트리](https://tree.minchan.app/) | 텍스트로만 이루어잔 아스키 트리예요. 4가지 유형의 트리와 캐롤로 크리스마스를 기다릴 수 있어요. |
 
-### 사용하는 기술
-> *기울임체*는 공부하고 있는 기술이에요.
+### 기술 스택
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,c,cpp,kotlin,flutter,dart&perline=9" alt="Languages">
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=cloudflare,vercel,docker,linux,ubuntu,git,github&perline=9" alt="Tools">
+</p>
 
-- **Front-end** ▪︎ HTML · CSS · JavaScript · *Dart (Flutter)*
-- **Back-end** ▪︎ Python (Flask, FastAPI 등)
-- **Other** ▪︎ *Kotlin*
-- **Tools** ▪ VS Code · JetBrains IDE
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,dart,flutter,py,flask,fastapi,kotlin,vscode,idea)](https://skillicons.dev)
-
-### 연락처
-- Email: business@minchan.app
-
-# [포트폴리오](https://minchan.app/)
+<!-- 맨 아래: 잔디 뱀 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minchan-dev/minchan-dev/output/snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/minchan-dev/minchan-dev/output/snake.svg">
+</picture>
 
 > ## 마지막 업데이트: 2026.11.24.(화) 23:42
